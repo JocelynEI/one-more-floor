@@ -90,6 +90,6 @@ Cocher sur **au moins un iPhone, un Android et un navigateur**. Noter l'appareil
 
 ## Web (GitHub Pages)
 
-- [ ] L'adresse `/one-more-floor/` s'ouvre ; recharger sur `/one-more-floor/settings` ramène au bon écran
+- [ ] L'adresse `/tower-ding/` s'ouvre ; recharger sur `/tower-ding/settings` ramène au bon écran
 - [ ] Les sons démarrent après le premier toucher (règle des navigateurs)
 - [ ] Changer d'onglet met le jeu en pause
