@@ -29,7 +29,7 @@
    - Google Play Console : frais uniques de 25 $.
    - Compte Expo gratuit pour EAS Build.
 3. **Politique de confidentialité en ligne**
-   - Publier `docs/store/PRIVACY_POLICY.md` à une adresse publique, par exemple sur GitHub Pages.
+   - Publiée avec la version web : https://jocelynei.github.io/tower-ding/privacy-policy.html
    - Coller cette adresse dans les deux consoles.
 4. **Build Android**
    ```bash

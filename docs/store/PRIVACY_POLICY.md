@@ -2,7 +2,7 @@
 
 *Dernière mise à jour / Last updated : 13 octobre 2026*
 
-> À publier à une adresse publique (par exemple GitHub Pages).
+> Publiée sur https://jocelynei.github.io/tower-ding/privacy-policy.html (copie : `public/privacy-policy.html`, à garder identique à ce fichier).
 
 ## Français
 

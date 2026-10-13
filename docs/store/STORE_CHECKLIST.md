@@ -7,7 +7,7 @@
 - [ ] Icône : `assets/icon.png` (1024, sans transparence) ; Play Store 512×512 à exporter depuis `assets/brand/icon-master-2048.png`
 - [ ] Bannière Play (1024×500) : à créer (logo + cabine sur fond `#0E1420`)
 - [ ] 5 captures par langue (`SCREENSHOT_PLAN.md`)
-- [ ] URL de politique de confidentialité publique (`PRIVACY_POLICY.md` publiée)
+- [x] URL de politique de confidentialité publique : https://jocelynei.github.io/tower-ding/privacy-policy.html
 - [x] Adresse e-mail de support : jocelyn.lebon.ae@gmail.com
 
 ## Déclarations
