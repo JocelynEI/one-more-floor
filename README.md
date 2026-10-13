@@ -1,4 +1,4 @@
-# ONE MORE FLOOR
+# TOWER DING
 
 Jeu mobile d'arcade stratégique en portrait : on pilote l'ascenseur d'une tour, on transporte des passagers impatients, on enchaîne les combos et on tient le plus longtemps possible avant que le stress de la tour n'atteigne 100 %.
 
@@ -99,4 +99,4 @@ L'identifiant provisoire `com.yourstudio.onemorefloor` est défini dans `app.jso
 
 ## Licences
 
-Le code et les assets de ONE MORE FLOOR appartiennent à leur propriétaire (tous droits réservés). Les composants tiers et leurs licences sont listés dans [docs/THIRD_PARTY_NOTICES.md](docs/THIRD_PARTY_NOTICES.md).
+Le code et les assets de TOWER DING appartiennent à leur propriétaire (tous droits réservés). Les composants tiers et leurs licences sont listés dans [docs/THIRD_PARTY_NOTICES.md](docs/THIRD_PARTY_NOTICES.md).

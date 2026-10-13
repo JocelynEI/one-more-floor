@@ -1,6 +1,6 @@
 export const en = {
   app: {
-    name: 'ONE MORE FLOOR',
+    name: 'TOWER DING',
     tagline: 'Run the lift. Beat the rush.',
   },
   common: {
@@ -178,7 +178,7 @@ export const en = {
   credits: {
     title: 'Credits',
     gameBy: 'Game design, code, art and sound',
-    gameByValue: 'ONE MORE FLOOR team',
+    gameByValue: 'TOWER DING team',
     font: 'Typeface',
     fontValue: 'Inter by Rasmus Andersson, SIL Open Font License 1.1',
     engine: 'Built with',
@@ -189,7 +189,7 @@ export const en = {
   },
   privacy: {
     title: 'Privacy',
-    intro: 'ONE MORE FLOOR works entirely on your device.',
+    intro: 'TOWER DING works entirely on your device.',
     points: [
       'No account, no sign-up, no email.',
       'No ads, no analytics, no tracking.',

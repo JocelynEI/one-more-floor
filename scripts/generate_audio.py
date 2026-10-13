@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Synthesizes every sound of ONE MORE FLOOR into assets/audio/.
+"""Synthesizes every sound of TOWER DING into assets/audio/.
 
 All audio is generated from scratch by this script (no samples), so it is original and
 free of third-party rights. Run: python3 scripts/generate_audio.py

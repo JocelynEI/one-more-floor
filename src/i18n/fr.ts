@@ -2,7 +2,7 @@ import type { Translations } from './en';
 
 export const fr: Translations = {
   app: {
-    name: 'ONE MORE FLOOR',
+    name: 'TOWER DING',
     tagline: "Pilote l'ascenseur. Tiens le rush.",
   },
   common: {
@@ -181,7 +181,7 @@ export const fr: Translations = {
   credits: {
     title: 'Crédits',
     gameBy: 'Game design, code, graphismes et sons',
-    gameByValue: 'Équipe ONE MORE FLOOR',
+    gameByValue: 'Équipe TOWER DING',
     font: 'Police',
     fontValue: 'Inter par Rasmus Andersson, SIL Open Font License 1.1',
     engine: 'Réalisé avec',
@@ -192,7 +192,7 @@ export const fr: Translations = {
   },
   privacy: {
     title: 'Confidentialité',
-    intro: 'ONE MORE FLOOR fonctionne entièrement sur ton appareil.',
+    intro: 'TOWER DING fonctionne entièrement sur ton appareil.',
     points: [
       'Aucun compte, aucune inscription, aucun e-mail.',
       'Aucune publicité, aucune mesure d’audience, aucun pistage.',

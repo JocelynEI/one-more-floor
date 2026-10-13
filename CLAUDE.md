@@ -1,6 +1,6 @@
 @AGENTS.md
 
-# Consignes pour ONE MORE FLOOR
+# Consignes pour TOWER DING
 
 Elles complètent AGENTS.md (règles Expo) et s'appliquent à chaque session.
 Avant toute modification, lire le document de `docs/` qui concerne la demande : `GAME_DESIGN.md`, `ARCHITECTURE.md`, `BALANCING.md`, `UX_UI_SYSTEM.md`.

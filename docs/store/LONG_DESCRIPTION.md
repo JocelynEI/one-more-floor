@@ -4,7 +4,7 @@
 
 **Encore un étage. Encore une partie.**
 
-Dans ONE MORE FLOOR, tu pilotes l'ascenseur d'une tour de 10 étages. Des passagers arrivent, chacun avec sa destination et sa patience. Touche un étage : l'ascenseur y file. Les portes, la montée et la descente sont automatiques. À toi de choisir la meilleure route.
+Dans TOWER DING, tu pilotes l'ascenseur d'une tour de 10 étages. Des passagers arrivent, chacun avec sa destination et sa patience. Touche un étage : l'ascenseur y file. Les portes, la montée et la descente sont automatiques. À toi de choisir la meilleure route.
 
 • **Simple à prendre en main** : un seul geste, jouable d'une main.
 • **Profond à maîtriser** : capacité limitée, priorités, trajets optimisés.
@@ -22,9 +22,9 @@ Destinations lisibles sans les couleurs (numéros et flèches), option « Rédui
 
 ## EN
 
-**One more floor. One more run.**
+**Tower Ding. One more run.**
 
-In ONE MORE FLOOR you run the lift of a 10-storey tower. Passengers show up, each with a destination and a patience ring. Tap a floor and the lift is on its way. Doors, boarding and drop-offs are automatic. Your job is to find the best route.
+In TOWER DING you run the lift of a 10-storey tower. Passengers show up, each with a destination and a patience ring. Tap a floor and the lift is on its way. Doors, boarding and drop-offs are automatic. Your job is to find the best route.
 
 • **Instant to learn**: one gesture, playable with one thumb.
 • **Deep to master**: limited seats, priorities, smart routing.
