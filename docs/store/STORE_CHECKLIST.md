@@ -4,9 +4,9 @@
 - [ ] Nom, sous-titre, description courte et longue (FR + EN) : fichiers de ce dossier
 - [ ] Mots-clés App Store
 - [ ] Catégorie : **Jeux → Arcade** (secondaire : Puzzle)
-- [ ] Icône : `assets/icon.png` (1024, sans transparence) ; Play Store 512×512 à exporter depuis `assets/brand/icon-master-2048.png`
-- [ ] Bannière Play (1024×500) : à créer (logo + cabine sur fond `#0E1420`)
-- [ ] 5 captures par langue (`SCREENSHOT_PLAN.md`)
+- [x] Icône : `assets/icon.png` (1024, sans transparence) ; Play Store 512×512 : `graphics/play-icon-512.png`
+- [x] Bannière Play (1024×500) : `graphics/play-feature-graphic-fr.png` et `-en.png`
+- [x] 5 captures par langue : `screenshots/` (`SCREENSHOT_PLAN.md`)
 - [x] URL de politique de confidentialité publique : https://jocelynei.github.io/tower-ding/privacy-policy.html
 - [x] Adresse e-mail de support : jocelyn.lebon.ae@gmail.com
 

@@ -13,3 +13,14 @@ Composition commune : fond `#0E1420`, capture du jeu dans un cadre de téléphon
 | 5 | Collection : Néon équipé, Or et Spatial visibles | **Débloque des ascenseurs** en jouant | **Unlock lifts** just by playing | Grille ; mention discrète « Sans achat » / « No purchases » |
 
 Méthode : jouer sur un simulateur ou un téléphone en anglais puis en français (Réglages → Langue), faire une capture système, puis composer les visuels.
+
+## Captures réalisées (13 octobre 2026)
+
+Faites depuis la version web du jeu (même code que l'appli), pendant une vraie partie jouée par un robot. Seuls le stress à 60 % et le déclenchement de l'heure de pointe (scène 2) ont été mis en scène.
+
+- `screenshots/ios-6.9/fr|en/` : 1290 × 2796, iPhone 6,9" (App Store Connect les réduit pour les autres tailles)
+- `screenshots/android/fr|en/` : 1080 × 1920 (9:16), téléphone Google Play
+- `graphics/play-icon-512.png` : icône Google Play 512 × 512
+- `graphics/play-feature-graphic-fr|en.png` : bannière Google Play 1024 × 500
+
+À refaire sur un vrai téléphone si Apple les refuse : la barre d'état du téléphone n'y apparaît pas.
