@@ -8,7 +8,7 @@
 - [ ] Bannière Play (1024×500) : à créer (logo + cabine sur fond `#0E1420`)
 - [ ] 5 captures par langue (`SCREENSHOT_PLAN.md`)
 - [ ] URL de politique de confidentialité publique (`PRIVACY_POLICY.md` publiée)
-- [ ] Adresse e-mail de support
+- [x] Adresse e-mail de support : jocelyn.lebon.ae@gmail.com
 
 ## Déclarations
 - [ ] App Privacy (`APP_PRIVACY_APPLE.md`)
