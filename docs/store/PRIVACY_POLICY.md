@@ -1,4 +1,4 @@
-# Politique de confidentialité / Privacy Policy : ONE MORE FLOOR
+# Politique de confidentialité / Privacy Policy : TOWER DING
 
 *Dernière mise à jour / Last updated : 23 septembre 2026*
 
@@ -6,7 +6,7 @@
 
 ## Français
 
-ONE MORE FLOOR (« le jeu ») est édité par **[NOM DE L'ÉDITEUR]**, contact : **[ADRESSE E-MAIL DE CONTACT]**.
+TOWER DING (« le jeu ») est édité par **[NOM DE L'ÉDITEUR]**, contact : **[ADRESSE E-MAIL DE CONTACT]**.
 
 **Aucune donnée personnelle n'est collectée.** Le jeu :
 - ne demande aucun compte, aucune inscription, aucune adresse e-mail ;
@@ -24,7 +24,7 @@ ONE MORE FLOOR (« le jeu ») est édité par **[NOM DE L'ÉDITEUR]**, contact :
 
 ## English
 
-ONE MORE FLOOR ("the game") is published by **[PUBLISHER NAME]**, contact: **[CONTACT EMAIL]**.
+TOWER DING ("the game") is published by **[PUBLISHER NAME]**, contact: **[CONTACT EMAIL]**.
 
 **No personal data is collected.** The game:
 - requires no account, sign-up or email address;

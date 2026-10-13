@@ -1,6 +1,6 @@
 # Composants tiers
 
-ONE MORE FLOOR n'intègre **aucun SDK publicitaire, analytique, de crash reporting ni de connexion**. Chaque dépendance a une raison d'être.
+TOWER DING n'intègre **aucun SDK publicitaire, analytique, de crash reporting ni de connexion**. Chaque dépendance a une raison d'être.
 
 | Paquet | Version | Licence | Rôle |
 |---|---|---|---|

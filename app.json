@@ -1,16 +1,16 @@
 {
   "expo": {
-    "name": "One More Floor",
-    "slug": "one-more-floor",
+    "name": "Tower Ding",
+    "slug": "tower-ding",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "scheme": "onemorefloor",
+    "scheme": "towerding",
     "userInterfaceStyle": "dark",
     "backgroundColor": "#0E1420",
     "primaryColor": "#34D5FF",
     "ios": {
-      "bundleIdentifier": "com.yourstudio.onemorefloor",
+      "bundleIdentifier": "com.racles.towerding",
       "buildNumber": "1",
       "supportsTablet": false,
       "config": {
@@ -31,7 +31,7 @@
       }
     },
     "android": {
-      "package": "com.yourstudio.onemorefloor",
+      "package": "com.racles.towerding",
       "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/android-icon-foreground.png",
@@ -50,8 +50,8 @@
     "web": {
       "favicon": "./assets/favicon.png",
       "output": "single",
-      "name": "One More Floor",
-      "shortName": "One More Floor",
+      "name": "Tower Ding",
+      "shortName": "Tower Ding",
       "backgroundColor": "#0E1420",
       "themeColor": "#0E1420",
       "description": "Run the lift. Beat the rush. A one-thumb arcade puzzle game."
@@ -82,7 +82,7 @@
     ],
     "experiments": {
       "typedRoutes": true,
-      "baseUrl": "/one-more-floor"
+      "baseUrl": "/tower-ding"
     }
   }
 }

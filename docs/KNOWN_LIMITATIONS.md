@@ -23,5 +23,5 @@ Recensées honnêtement à la fin de la V1.
 
 ## Store
 
-- Identifiant provisoire `com.yourstudio.onemorefloor`, nom de studio, comptes développeur, signature : à fournir par le propriétaire (`docs/RELEASE_CHECKLIST.md`).
+- Nom de studio, comptes développeur, signature : à fournir par le propriétaire (`docs/RELEASE_CHECKLIST.md`).
 - Les exigences des stores (niveau d'API cible, version de Xcode) doivent être revérifiées sur les sites officiels au moment de la soumission.
