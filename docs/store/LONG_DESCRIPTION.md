@@ -2,7 +2,7 @@
 
 ## FR
 
-**Encore un étage. Encore une partie.**
+**Pilote l'ascenseur. Tiens le rush.**
 
 Dans TOWER DING, tu pilotes l'ascenseur d'une tour de 10 étages. Des passagers arrivent, chacun avec sa destination et sa patience. Touche un étage : l'ascenseur y file. Les portes, la montée et la descente sont automatiques. À toi de choisir la meilleure route.
 
