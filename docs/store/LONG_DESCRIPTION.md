@@ -2,7 +2,7 @@
 
 ## FR
 
-**Encore un étage. Encore une partie.**
+**Pilote l'ascenseur. Tiens le rush.**
 
 Dans TOWER DING, tu pilotes l'ascenseur d'une tour de 10 étages. Des passagers arrivent, chacun avec sa destination et sa patience. Touche un étage : l'ascenseur y file. Les portes, la montée et la descente sont automatiques. À toi de choisir la meilleure route.
 
@@ -22,7 +22,7 @@ Destinations lisibles sans les couleurs (numéros et flèches), option « Rédui
 
 ## EN
 
-**One more floor. One more run.**
+**Run the lift. Beat the rush.**
 
 In TOWER DING you run the lift of a 10-storey tower. Passengers show up, each with a destination and a patience ring. Tap a floor and the lift is on its way. Doors, boarding and drop-offs are automatic. Your job is to find the best route.
 
