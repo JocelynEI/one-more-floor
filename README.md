@@ -73,7 +73,7 @@ Tout est original ou sous licence libre compatible.
 
 ## Publication web (GitHub Pages)
 
-Le fichier `.github/workflows/deploy-web.yml` vérifie les types, lance les tests, construit le site et le publie à chaque `push` sur la branche `main`.
+Le fichier `.github/workflows/deploy-web.yml` vérifie les types, lance le lint et les tests, construit le site et le publie à chaque `push` sur la branche `main`.
 
 Une seule fois, sur GitHub : **Settings → Pages → Source : GitHub Actions**.
 
