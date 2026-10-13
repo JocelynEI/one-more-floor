@@ -22,7 +22,7 @@ Destinations lisibles sans les couleurs (numéros et flèches), option « Rédui
 
 ## EN
 
-**One more floor. One more run.**
+**Run the lift. Beat the rush.**
 
 In TOWER DING you run the lift of a 10-storey tower. Passengers show up, each with a destination and a patience ring. Tap a floor and the lift is on its way. Doors, boarding and drop-offs are automatic. Your job is to find the best route.
 
