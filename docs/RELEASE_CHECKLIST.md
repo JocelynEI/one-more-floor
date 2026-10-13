@@ -22,7 +22,7 @@
 ## À faire par le propriétaire
 
 1. **Identifiant définitif**
-   - Remplacer `com.yourstudio.onemorefloor` dans `app.json` (`ios.bundleIdentifier` et `android.package`).
+   - [x] `com.racles.towerding` dans `app.json` (`ios.bundleIdentifier` et `android.package`).
    - Il ne peut plus changer après la première publication.
 2. **Comptes**
    - Apple Developer Program : 99 $/an.

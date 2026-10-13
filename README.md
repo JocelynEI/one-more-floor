@@ -22,7 +22,7 @@ npm start            # lance le serveur de développement
 ```
 
 - **Sur téléphone** : installe l'appli **Expo Go** (App Store / Play Store), puis scanne le QR code affiché dans le terminal. Le téléphone et l'ordinateur doivent être sur le même Wi-Fi.
-- **Dans le navigateur** : `npm run web`, puis ouvre l'adresse affichée (`http://localhost:8081/one-more-floor`).
+- **Dans le navigateur** : `npm run web`, puis ouvre l'adresse affichée (`http://localhost:8081/tower-ding`).
 
 ## Commandes utiles
 
@@ -77,7 +77,7 @@ Le fichier `.github/workflows/deploy-web.yml` vérifie les types, lance les test
 
 Une seule fois, sur GitHub : **Settings → Pages → Source : GitHub Actions**.
 
-Le site est servi sous `/one-more-floor` (réglage `experiments.baseUrl` dans `app.json`). Si le dépôt porte un autre nom, il faut mettre ce nom à cet endroit.
+Le site est servi sous `/tower-ding` (réglage `experiments.baseUrl` dans `app.json`). Si le dépôt porte un autre nom, il faut mettre ce nom à cet endroit.
 
 ## Builds Android / iOS (plus tard)
 
@@ -89,7 +89,7 @@ npx eas-cli@latest build --platform android --profile production   # produit un 
 npx eas-cli@latest build --platform ios --profile production       # nécessite un compte Apple Developer
 ```
 
-L'identifiant provisoire `com.yourstudio.onemorefloor` est défini dans `app.json` (`ios.bundleIdentifier` et `android.package`) : il faut le remplacer avant la première publication, car il ne pourra plus changer ensuite.
+L'identifiant définitif `com.racles.towerding` est défini dans `app.json` (`ios.bundleIdentifier` et `android.package`) : il ne pourra plus changer après la première publication.
 
 ## Qualité
 
