@@ -7,6 +7,8 @@
 | Android | `RECORD_AUDIO` | **Non** (bloquée) | Ajoutée par défaut par expo-audio : retirée |
 | Android | `FOREGROUND_SERVICE`, `FOREGROUND_SERVICE_MEDIA_PLAYBACK` | **Non** (bloquées) | Lecture en arrière-plan désactivée |
 | Android | `POST_NOTIFICATIONS` | **Non** (bloquée) | Aucune notification |
+| Android | `SYSTEM_ALERT_WINDOW`, `READ_EXTERNAL_STORAGE`, `WRITE_EXTERNAL_STORAGE` | **Non** (bloquées) | Ajoutées par le modèle Expo : retirées |
+| Android | `MODIFY_AUDIO_SETTINGS` | Automatique, sans demande | Ajoutée par expo-audio pour la lecture des sons |
 | Android | `VIBRATE` | Automatique, sans demande à l'utilisateur | Vibrations de jeu (désactivables) |
 | Android | `INTERNET` | Automatique, sans demande | Ajoutée par React Native ; non utilisée par le jeu |
 | Web | aucune | - | La vibration web ne demande pas d'autorisation |
