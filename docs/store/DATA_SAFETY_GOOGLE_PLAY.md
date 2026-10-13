@@ -11,7 +11,7 @@ Réponses proposées pour la V1.
 
 **Architecture** : 100 % locale. Score, pièces, cosmétiques, statistiques et réglages sont enregistrés dans le stockage privé de l'appli et ne sont jamais envoyés.
 
-**Permissions Android** : aucune demandée. `RECORD_AUDIO`, `FOREGROUND_SERVICE`, `FOREGROUND_SERVICE_MEDIA_PLAYBACK` et `POST_NOTIFICATIONS` sont explicitement bloquées dans `app.json` (`blockedPermissions`). Avant l'envoi, vérifier la liste finale dans l'onglet « App bundle explorer » de la Play Console. `INTERNET` peut apparaître, ajoutée par React Native ; elle n'est pas utilisée par le jeu et ne constitue pas une collecte de données.
+**Permissions Android** : aucune demandée. `RECORD_AUDIO`, `FOREGROUND_SERVICE`, `FOREGROUND_SERVICE_MEDIA_PLAYBACK`, `POST_NOTIFICATIONS`, `SYSTEM_ALERT_WINDOW`, `READ_EXTERNAL_STORAGE` et `WRITE_EXTERNAL_STORAGE` sont explicitement bloquées dans `app.json` (`blockedPermissions`). Avant l'envoi, vérifier la liste finale dans l'onglet « App bundle explorer » de la Play Console. `INTERNET` (ajoutée par React Native), `VIBRATE` et `MODIFY_AUDIO_SETTINGS` (sons et vibrations) restent ; elles ne demandent rien au joueur, `INTERNET` n'est pas utilisée par le jeu et ne constitue pas une collecte de données.
 
 **Publicité** : l'appli ne contient **pas** de publicité.
 

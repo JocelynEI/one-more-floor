@@ -19,9 +19,9 @@ Recensées honnêtement à la fin de la V1.
 
 - **Un seul environnement** (City Tower), volontairement : priorité à la qualité de la V1. Le moteur accepte d'autres configurations (`balance`), mais Hôtel, Hôpital, Tour de bureaux et Station spatiale ne sont pas développés.
 - **Six apparences d'ascenseur** ; pas encore de thème de cabine ni d'éléments de décor.
-- **Captures d'écran store** : le plan existe (`docs/store/SCREENSHOT_PLAN.md`), mais les images sont à réaliser sur appareil.
+- **Captures d'écran store** : faites depuis la version web (`docs/store/screenshots/`), sans la barre d'état du téléphone. À refaire sur appareil si un store les refuse.
 
 ## Store
 
-- Identifiant provisoire `com.yourstudio.onemorefloor`, nom de studio, comptes développeur, signature : à fournir par le propriétaire (`docs/RELEASE_CHECKLIST.md`).
+- Identifiant `com.racles.towerding` choisi ; comptes développeur, signature : à fournir par le propriétaire (`docs/RELEASE_CHECKLIST.md`).
 - Les exigences des stores (niveau d'API cible, version de Xcode) doivent être revérifiées sur les sites officiels au moment de la soumission.

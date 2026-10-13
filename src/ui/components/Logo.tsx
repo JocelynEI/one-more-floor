@@ -24,9 +24,9 @@ export function LiftMark({ size }: { size: number }) {
 
 export function Wordmark() {
   return (
-    <View style={styles.wordmark} accessible accessibilityRole="header" accessibilityLabel="ONE MORE FLOOR">
-      <AppText style={styles.small}>ONE MORE</AppText>
-      <AppText style={styles.big}>FLOOR</AppText>
+    <View style={styles.wordmark} accessible accessibilityRole="header" accessibilityLabel="TOWER DING">
+      <AppText style={styles.small}>TOWER</AppText>
+      <AppText style={styles.big}>DING</AppText>
     </View>
   );
 }

@@ -22,14 +22,14 @@
 ## À faire par le propriétaire
 
 1. **Identifiant définitif**
-   - Remplacer `com.yourstudio.onemorefloor` dans `app.json` (`ios.bundleIdentifier` et `android.package`).
+   - Identifiant choisi : `com.racles.towerding` (`app.json` : `ios.bundleIdentifier` et `android.package`).
    - Il ne peut plus changer après la première publication.
 2. **Comptes**
    - Apple Developer Program : 99 $/an.
    - Google Play Console : frais uniques de 25 $.
    - Compte Expo gratuit pour EAS Build.
 3. **Politique de confidentialité en ligne**
-   - Publier `docs/store/PRIVACY_POLICY.md` à une adresse publique, par exemple sur GitHub Pages.
+   - Publiée avec la version web : https://jocelynei.github.io/tower-ding/privacy-policy.html
    - Coller cette adresse dans les deux consoles.
 4. **Build Android**
    ```bash
